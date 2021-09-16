@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVI Demo</string>
+    <string name="increment_text">You have pushed the button this many times:%d</string>
+    <string name="increment_btn">Increment</string>
+</resources>
